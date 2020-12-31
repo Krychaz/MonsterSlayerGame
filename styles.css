@@ -72,6 +72,8 @@ button {
   margin: 1rem;
   width: 12rem;
   cursor: pointer;
+  white-space: nowrap;
+  text-align: center;
   box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.26);
 }
 
